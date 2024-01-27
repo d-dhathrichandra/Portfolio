@@ -73,6 +73,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 # To Deploy the project in fireabase
 
 npm install -g firebase-tools
+npm install react-scroll
+npm install react-router-dom
+npm install sass
+npm install firebase
 
 # Login with firebase account
 

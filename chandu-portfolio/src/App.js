@@ -1,12 +1,12 @@
 // src/App.js
 import React from 'react';
 import { BrowserRouter as Router } from 'react-router-dom';
-import About from './components/About';
-import Projects from './components/Projects';
-import Navbar from './components/Navbar';
-import Home from './components/Home';
-import Education from './components/Education';
-import Footer from './components/Footer';
+import About from './Components/About1';
+import Home from './Components/Home1';
+import Education from './Components/Education1';
+import Navbar from './Components/Navbar1';
+import Projects from './Components/Projects1';
+import Footer from './Components/Footer1';
 
 
 function App() {
