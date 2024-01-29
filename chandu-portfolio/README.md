@@ -76,6 +76,10 @@ npm install firebase
 # To Deploy the project in fireabase
 
 npm install -g firebase-tools
+npm install react-scroll
+npm install react-router-dom
+npm install sass
+npm install firebase
 
 # Login with firebase account
 
