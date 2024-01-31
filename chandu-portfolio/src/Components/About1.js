@@ -8,7 +8,7 @@ const About = () => {
       <div className="about-content">
         <h2>About Me</h2>
         <p>
-          Hi, I'm Dasari Narada Rama Krishna Charan, a passionate and creative developer.
+          Hi, I'm Dasari Dhathri Chandra, a passionate and creative developer.
           I have a strong foundation in front-end and back-end technologies, with a focus
           on building modern and user-friendly applications.
         </p>

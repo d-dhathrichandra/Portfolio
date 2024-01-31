@@ -8,19 +8,19 @@ const Education = () => {
       <div className="education-content">
         <h2>Education</h2>
         <div className="education-item">
-          <h3>National Institute of Technology, Andhra Pradesh</h3>
-          <p>Degree in Electrical and Electronics Engineering</p>
-          <p>Graduation Year: 2022</p>
+          <h3>Indian Institute of Technology, Varanasi</h3>
+          <p>Degree in Electronics Engineering</p>
+          <p>Graduation Year: 2025</p>
         </div>
         <div className="education-item">
           <h3>Higher Secondary School Certificate</h3>
           <p>Intermediate - Maths, Physics, Chemistry</p>
-          <p>Graduation Year: 2017</p>
+          <p>Graduation Year: 2021</p>
         </div>
         <div className="education-item">
           <h3>Secondary School Certificate</h3>
           <p>SSC - 10th</p>
-          <p>Graduation Year: 2015</p>
+          <p>Graduation Year: 2019</p>
         </div>
       </div>
     </section>
