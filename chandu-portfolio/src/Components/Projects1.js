@@ -10,9 +10,9 @@ const Projects = () => {
           <div className="projects-item">
             <img src="https://www.mdpi.com/energies/energies-12-02692/article_deploy/html/images/energies-12-02692-g005.png" alt="Project 1" />
             <div className="item-details">
-              <h3>Electric vehicle scheduling with load forecasting and real-time pricing using Deep learning</h3>
-              <p>A user-friendly GUI was developed for EV users to schedule their EVs.</p>
-              <p>Firstly, load at a particular station is forecasted, and dynamic pricing is obtained through which EVs are scheduled within the forecasted load limits.</p>
+              <h3>Automatic Street Lights using 555 timer</h3>
+              <p> Designed and implemented an innovative embedded systems project focused on energy-saving techniques for street lights.</p>
+              <p>Utilized Light Dependent Resistors (LDR) as sensors to detect darkness, triggering an automatic switch-on mechanism for the lights. Additionally, incorporated a circuit based on a 555 Timer to turn off the street lights when ambient daylight is detected from an alternate light source.</p>
               <a href="https://www.linkedin.com/in/dnrk-charan/details/projects/">View Project</a>
             </div>
           </div>

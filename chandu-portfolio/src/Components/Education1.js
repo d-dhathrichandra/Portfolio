@@ -8,18 +8,25 @@ const Education = () => {
       <div className="education-content">
         <h2>Education</h2>
         <div className="education-item">
-          <h3>Indian Institute of Technology, Varanasi</h3>
+          <h3>Undergraduate Degree</h3>
+          <p>College Name : Indian Institute of Technology, Varanasi</p>
           <p>Degree in Electronics Engineering</p>
+          <p>CGPA : 7.5</p>
           <p>Graduation Year: 2025</p>
+
         </div>
         <div className="education-item">
-          <h3>Higher Secondary School Certificate</h3>
+          <h3>Higher Secondary School</h3>
+          <p>College Name : Tirumala Junior College, Bhimavaram</p>
           <p>Intermediate - Maths, Physics, Chemistry</p>
+          <p>Percentage : 96.8</p>
           <p>Graduation Year: 2021</p>
         </div>
         <div className="education-item">
-          <h3>Secondary School Certificate</h3>
+          <h3>Secondary School</h3>
+          <p>College Name : Sri Kakatiya Merit School, Bhimavaram</p>
           <p>SSC - 10th</p>
+          <p>CGPA : 9.8</p>
           <p>Graduation Year: 2019</p>
         </div>
       </div>
