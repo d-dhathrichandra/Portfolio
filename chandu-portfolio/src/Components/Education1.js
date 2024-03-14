@@ -19,7 +19,7 @@ const Education = () => {
             </div>
           </div>
           <div className="education-item">
-            <img src="https://projectabstracts.com/wp-content/uploads/2018/08/pg-20827-student-database-management.jpg" alt="Project 2" />
+            <img src="https://scontent.fdel29-1.fna.fbcdn.net/v/t39.30808-6/277680133_314836824094825_412132571357861741_n.jpg?_nc_cat=110&ccb=1-7&_nc_sid=5f2048&_nc_ohc=eZ5gt9lL50IAX_3m3aW&_nc_ht=scontent.fdel29-1.fna&oh=00_AfBG-isF-75tkKLyXlVNJjIP0J0YvHzkOk5PUXjalh34Zw&oe=65F81ABE" alt="Project 2" />
             <div className="item-details">
               <h3>Higher Secondary School</h3>
               <p>College Name : Tirumala Junior College, Bhimavaram</p>
@@ -29,7 +29,7 @@ const Education = () => {
             </div>
           </div>
           <div className="education-item">
-            <img src="https://projectabstracts.com/wp-content/uploads/2018/08/pg-20827-student-database-management.jpg" alt="Project 2" />
+            <img src="https://play-lh.googleusercontent.com/6Wf3TLKoUArmITxODLOPa4oMcy7kmThwg67yLh_tpsQTbytG6VFftJl80VA2aSgvij0g" alt="Project 2" />
             <div className="item-details">
               <h3>Secondary School</h3>
               <p>College Name : Sri Kakatiya Merit School, Bhimavaram</p>
