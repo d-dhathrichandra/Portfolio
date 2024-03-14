@@ -3,7 +3,7 @@ import React from 'react';
 import '../styles/Education.scss';
 
 
-const Projects = () => {
+const Education = () => {
     return (
       <section id="education" className="education">
         <div className="education-content">
