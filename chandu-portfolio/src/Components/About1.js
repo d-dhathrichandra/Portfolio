@@ -9,18 +9,15 @@ const About = () => {
         <h2>About Me</h2>
         <p>
           Hi, I'm Dasari Dhathri Chandra, a passionate and creative developer.
-          I have a strong foundation in front-end and back-end technologies, with a focus
-          on building modern and user-friendly applications.
+          As an engineering undergraduate passionate about technology, music, books, and art, I constantly explore new ways to innovate and create.
         </p>
         <p>
-          My journey in web development started with 2 years of experience.
-          I love turning ideas into reality through coding and enjoy staying updated with the
-          latest technologies in the ever-evolving tech world.
+        With a particular interest in Analog and Digital Electronics, Semiconductor Technology, Telecommunication Networks,Python Programming, Web development and Machine Learning also, I always seek to expand my knowledge and skills.
+        The intersection of technology and the arts has the power to transform the world, and I am excited to be a part of this movement.
         </p>
         <p>
-          When I'm not coding, you can find me exploring new technologies, working on side projects,
-          and enjoying quality time with friends and family. I believe in continuous learning
-          and am always eager to take on new challenges.
+        Also I have completed a one month mentorship WiSH program under Texas Instruments, Bangalore in June 2023 where we had hands on experience with circuit design and innovative talks about past,present and future of Semiconductor Technology.
+        If you share similar interests, I would love to connect and explore how to collaborate to create something unique.
         </p>
       </div>
     </section>
