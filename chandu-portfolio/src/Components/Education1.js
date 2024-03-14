@@ -7,6 +7,7 @@ const Education = () => {
     <section id="education" className="education">
       <div className="education-content">
         <h2>Education</h2>
+        <img src="https://iitbhu.ac.in/contents/iitbhu/img/other/iit_logo_original.png" alt="Education 1" />
         <div className="education-item">
           <h3>Undergraduate Degree</h3>
           <p>College Name : Indian Institute of Technology, Varanasi</p>
