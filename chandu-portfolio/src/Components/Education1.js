@@ -29,7 +29,7 @@ const Education = () => {
             </div>
           </div>
           <div className="education-item">
-            <img src="https://play-lh.googleusercontent.com/6Wf3TLKoUArmITxODLOPa4oMcy7kmThwg67yLh_tpsQTbytG6VFftJl80VA2aSgvij0g" alt="Project 2" />
+            <img src="https://play-lh.googleusercontent.com/6Wf3TLKoUArmITxODLOPa4oMcy7kmThwg67yLh_tpsQTbytG6VFftJl80VA2aSgvij0" alt="Project 2" />
             <div className="item-details">
               <h3>Secondary School</h3>
               <p>College Name : Sri Kakatiya Merit School, Bhimavaram</p>
